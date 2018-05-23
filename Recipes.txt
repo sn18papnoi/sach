@@ -2,3 +2,6 @@ Welcome to kitchen
 
 almond
 plum
+chicken fry
+
+thank you
